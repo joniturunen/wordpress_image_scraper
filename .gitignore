@@ -1,0 +1,6 @@
+*.xml
+__pycache__
+*.pyc
+*.pyo
+kuvat/
+images/
